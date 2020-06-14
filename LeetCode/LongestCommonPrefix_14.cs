@@ -6,17 +6,8 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class LeetCode14
+    class LongestCommonPrefix14
     {
-        static void Main(string[] args)
-        {
-            var ans = LongestCommonPrefix(
-                new string[]{
-                "flower","flow","flight"
-                });
-            Console.Write(ans);
-
-        }
         public static string LongestCommonPrefix(string[] strs)
         {
             var ans = "";
