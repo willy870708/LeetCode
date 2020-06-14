@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class Reverse_Integer_7
+    public class Reverse_Integer_7
     {
         public int Reverse(int x)
         {

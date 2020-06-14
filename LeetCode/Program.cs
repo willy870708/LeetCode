@@ -10,7 +10,10 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-           
+            var twoSum = new Two_Sum_1();
+            twoSum.TwoSum(new int[] { 1, 5, 3, 4 }, 5);
+            var reverse = new Reverse_Integer_7();
+            reverse.Reverse(1534236469);
         }
     }
 }
