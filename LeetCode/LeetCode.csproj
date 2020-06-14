@@ -46,6 +46,8 @@
     <Compile Include="LongestCommonPrefix_14.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reverse Integer_7.cs" />
+    <Compile Include="Two Sum_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
