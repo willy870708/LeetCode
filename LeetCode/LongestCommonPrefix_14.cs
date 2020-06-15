@@ -8,7 +8,7 @@ namespace LeetCode
 {
     public class LongestCommonPrefix14
     {
-        public static string LongestCommonPrefix(string[] strs)
+        public string LongestCommonPrefix(string[] strs)
         {
             var ans = "";
             int? min = strs.Min(x => x.Length);
