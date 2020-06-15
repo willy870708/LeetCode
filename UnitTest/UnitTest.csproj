@@ -53,6 +53,7 @@
     <Compile Include="Palindrome_Number_Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reverse Integer_Test.cs" />
     <Compile Include="Two_Sum_Test.cs" />
   </ItemGroup>
   <ItemGroup>
