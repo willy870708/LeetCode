@@ -46,6 +46,7 @@
     <Compile Include="Easy\LongestCommonPrefix_14.cs" />
     <Compile Include="Easy\Merge_Two_Sorted_Lists_21.cs" />
     <Compile Include="Easy\Palindrome Number_9.cs" />
+    <Compile Include="Easy\Remove_Duplicates_from_Sorted_Array_26.cs" />
     <Compile Include="Easy\Roman_to_Integer_13.cs" />
     <Compile Include="Easy\Valid_Parentheses_20.cs" />
     <Compile Include="Program.cs" />
