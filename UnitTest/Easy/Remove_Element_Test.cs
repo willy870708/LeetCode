@@ -15,7 +15,7 @@ namespace UnitTest.Easy
         {
             var remove = new Remove_Element_27();
             var expected = remove.RemoveElement(new int[] { 3, 2, 2, 3 },3);
-            Assert.AreEqual(expected, 2);
+            Assert.AreEqual(expected, 3);
         }
     }
 }

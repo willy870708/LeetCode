@@ -50,6 +50,7 @@
     <Compile Include="Easy\Remove_Duplicates_from_Sorted_Array_26.cs" />
     <Compile Include="Easy\Remove_Element_27.cs" />
     <Compile Include="Easy\Roman_to_Integer_13.cs" />
+    <Compile Include="Easy\Search_Insert_Position_35.cs" />
     <Compile Include="Easy\Valid_Parentheses_20.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
