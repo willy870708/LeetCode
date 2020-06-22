@@ -57,6 +57,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\Implement_str_test.cs" />
     <Compile Include="Easy\LongestCommonPrefix_Test.cs" />
     <Compile Include="Easy\Merge_Two_Sorted_Lists_Test.cs" />
     <Compile Include="Easy\Palindrome_Number_Test.cs" />
