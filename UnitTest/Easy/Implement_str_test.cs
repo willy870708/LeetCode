@@ -9,8 +9,8 @@ namespace UnitTest.Easy
         public void implement_str__succes_test()
         {
             var implement = new Implement_strStr_28();
-            var expected = implement.StrStr("mississippi", "sippia");
-            Assert.AreEqual(expected, 1);
+            var expected = implement.StrStr("mississippi", "issip");
+            Assert.AreEqual(expected, 4);
         }
         [Test]
         public void implement_str__fail_test()
