@@ -13,11 +13,17 @@ namespace LeetCode
 
             var palindrome_number = new Palindrome_Number_9();
             var isvalid = palindrome_number.IsPalindrome(12321);
-            var a = "";
+
 
             var romanToIneger = new Roman_to_Integer_13();
             var ans = romanToIneger.RomanToInt("MCMXCIV");
-            var x = "";
+            var x = "abcde";
+            var a = x.ToCharArray();
+            for (int i = 0; i < x.Length / 2; i++)
+            {
+                a[i] = x[x.Length - i - 1];
+                a[x.Length - i - 1] = x[i];
+            }
         }
     }
 }
