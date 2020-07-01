@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Easy\Count_and_Say_38.cs" />
     <Compile Include="Easy\Implement_strStr_28.cs" />
+    <Compile Include="Easy\Length_of_Last_Word_58.cs" />
     <Compile Include="Easy\LongestCommonPrefix_14.cs" />
     <Compile Include="Easy\Maximum_Subarray_53.cs" />
     <Compile Include="Easy\Merge_Two_Sorted_Lists_21.cs" />
